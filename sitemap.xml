@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/parking.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/food.html</loc></url>
-  <url><loc>https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/traditions.html</loc></url>
+  <url>
+    <loc>https://reesed2005-lang.github.io/Iowa-City-Gameday-Guide/</loc>
+  </url>
+  <url>
+    <loc>https://reesed2005-lang.github.io/Iowa-City-Gameday-Guide/parking.html</loc>
+  </url>
+  <url>
+    <loc>https://reesed2005-lang.github.io/Iowa-City-Gameday-Guide/food.html</loc>
+  </url>
+  <url>
+    <loc>https://reesed2005-lang.github.io/Iowa-City-Gameday-Guide/traditions.html</loc>
+  </url>
 </urlset>
